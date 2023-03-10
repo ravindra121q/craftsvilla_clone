@@ -1,0 +1,43 @@
+*{
+    font-family: Merriweather;
+}
+.no-style{
+     border: none;
+    border-top: 1px double #90bbd4;
+    color: #96a1d9;
+    overflow: hidden;
+    text-align: center;
+    height: 66px;
+    margin-top: 19px;
+}
+.no-style:after{
+        margin-top: 13px;
+    background: #fff;
+    content: '';
+    padding: 10 5px;
+    position: relative;
+    top: -13px;
+    color: white;
+    font-size: 22px;
+}
+
+hr {
+    border: none;
+    border-top: 1px double #90bbd4;
+    color: #96a1d9;
+    overflow: visible;
+    text-align: center;
+    height: 66px;
+    margin-top: 19px;
+}
+
+hr:after {
+    margin-top: 13px;
+    background: #fff;
+    content: 'Shop By Category';
+    padding: 10 5px;
+    position: relative;
+    top: -13px;
+    color: black;
+    font-size: 22px;
+}

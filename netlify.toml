@@ -1,0 +1,29 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[dev]
+  command = "npm run start"
+  port = 8080
+
+[[redirects]]
+  from = "/api/*"
+  to = "http://localhost:8080/$1"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build.environment]
+  # Set the environment variable for the json-server
+  JSON_SERVER = "json-server db.json --watch --port 8080"
+  
+[build.lifecycle]
+  # Start the json-server during the build process
+  onBuild = """
+    echo "Starting json-server..."
+    npx cross-env $(JSON_SERVER) &
+    sleep 1
+  """
