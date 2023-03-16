@@ -1,5 +1,6 @@
 # CraftsVilla Clone as Dream Villa
-Deployed Link:- https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app
+Deployed Link:- 
+<p align="left" > <a href="https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app" target="blank">https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app<a/></p>
 #
 HomePage:-
 <img src="https://i.ibb.co/s5w5sfR/site.png" alt="IMAGE_DESCRIPTION">
