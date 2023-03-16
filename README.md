@@ -1,6 +1,6 @@
 # CraftsVilla Clone as Dream Villa
 Deployed Link:- 
-[Opens in new tab](https://external.ink?to=/placeholder.com)
+<a href="http://example.com" target="_blank" rel="noopener">Link</a>
 <a href="https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app" target="_blank">https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app</a>
   
 
