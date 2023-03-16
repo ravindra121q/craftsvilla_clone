@@ -1,6 +1,6 @@
 # CraftsVilla Clone as Dream Villa
 Deployed Link:- 
-[https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app](https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app/){:target="_blank"}
+[https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app](https://craftsvilla-clone-m3qd-4kh5yinqz-ravindra121q.vercel.app/)
 
 
 
